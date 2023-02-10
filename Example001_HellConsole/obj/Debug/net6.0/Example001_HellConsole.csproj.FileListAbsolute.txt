@@ -1,0 +1,15 @@
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/bin/Debug/net6.0/Example001_HellConsole
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/bin/Debug/net6.0/Example001_HellConsole.deps.json
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/bin/Debug/net6.0/Example001_HellConsole.runtimeconfig.json
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/bin/Debug/net6.0/Example001_HellConsole.dll
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/bin/Debug/net6.0/Example001_HellConsole.pdb
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/Example001_HellConsole.csproj.AssemblyReference.cache
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/Example001_HellConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/Example001_HellConsole.AssemblyInfoInputs.cache
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/Example001_HellConsole.AssemblyInfo.cs
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/Example001_HellConsole.csproj.CoreCompileInputs.cache
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/Example001_HellConsole.dll
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/refint/Example001_HellConsole.dll
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/Example001_HellConsole.pdb
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/Example001_HellConsole.genruntimeconfig.cache
+/Users/kirillkantur/Documents/study/program_lang_c#/examples/Example001_HellConsole/obj/Debug/net6.0/ref/Example001_HellConsole.dll
